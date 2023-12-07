@@ -1,0 +1,5 @@
+limit nick change rate
+limit chat rate
+include hour:mins:secs in each chat message
+use TCP keepalive to disconnect dead clients
+
